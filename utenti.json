@@ -1,26 +1,26 @@
 [
-      { id: 1, 
-	nome: 'Nutente',
-	cognome: 'Cutente' 
+      { "id": 1, 
+	"nome": "Nutente",
+	"cognome": "Cutente" 
 	},
-      { id: 2, 
-	nome: 'Narco',
-	cognome: 'CNarco'
+      { "id": 2, 
+	"nome": "Narco",
+	"cognome": "CNarco"
 	 },
-      { id: 3,
-	 nome: 'Bombasto',
-	 cognome: 'CBombasto' 
+      { "id": 3,
+	 "nome": "Bombasto",
+	"cognome": "CBombasto" 
 	},
-      { id: 4, 
-	nome: 'Celeritas',
-	cognome: 'CBombasto' 
+      { "id": 4, 
+	"nome": "Celeritas",
+	"cognome": "CBombasto" 
 	},
-      { id: 5, 
-	nome: 'Magneta', 
-	cognome: 'CMagneta' 
+      { "id": 5, 
+	"nome": "Magneta", 
+	"cognome": "CMagneta" 
 	},
-      { id: 6, 
-	nome: 'RubberMan',
-	cognome: 'CRubberMan'
+      { "id": 6, 
+	"nome": "RubberMan",
+	"cognome": "CRubberMan"
   	}
- ];
+ ]
